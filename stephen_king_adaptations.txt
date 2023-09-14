@@ -1,0 +1,16 @@
+M01,Carrie,1976,7.4
+M02,The Shining,1980,8.4
+M03,Cujo,1983,6.1
+M04,The Dead Zone,1983,7.2
+M05,Christine,1983,6.7
+M06,Children of the Corn,1984,5.6
+M07,Firestarter,1984,6.0
+M08,Cat's Eye,1985,6.3
+M09,Stand By Me,1986,8.1
+M10,The Running Man,1987,6.7
+M11,Pet Sematary,1989,6.5
+M12,Misery,1990,7.8
+M13,Sleepwalkers,1992,5.3
+M14,The Dark Half,1993,6.0
+M15,Needful Things,1993,6.2
+M16,The Shawshank Redemption,1994,9.3
